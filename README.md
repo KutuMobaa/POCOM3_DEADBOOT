@@ -28,6 +28,11 @@ Saat Pembakaran, Usahakan Cukup Bagian Seperti Pada Gambar 2 Agar Tidak Memanask
 
   ####
 
-  [GAMBAR 1](https://github.com/KutuMobaa/POCOM3_DEADBOOT/assets/124151847/a11b7c28-05ed-4ddd-8cc4-cd4e280c1b02)
+[GAMBAR 1](https://github.com/KutuMobaa/POCOM3_DEADBOOT/assets/124151847/a11b7c28-05ed-4ddd-8cc4-cd4e280c1b02)
 ####
 [GAMBAR 2](https://github.com/KutuMobaa/POCOM3_DEADBOOT/assets/124151847/c5503932-34f8-4ea0-85f3-2949ed8d599c)
+
+#### Dukung Kami 
+
+* [Telegram](https://t.me/kutu_Moba57)
+* [Youtube](https://youtube.com/@KutuMoba)
