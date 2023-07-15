@@ -17,7 +17,7 @@
 * 5) Setelah Mesin Terangkat, Balik Mesin Poco M3 Seperti Pada Gambar 1
 * 6) Lihat Tanda Pada Gambar 2, Nyalakan Korek Api Lalu Bakar Secara Perlahan Sampai Dirasa Cukup Panas ( Durasi Waktu 0 - 60 Detik ). 
 Saat Pembakaran, Usahakan Cukup Bagian Seperti Pada Gambar 2 Agar Tidak Memanaskan Komponen Yang Lain. Jika PembakaranYang Dihasilkan Cukup Panas, Poco M3 Akan Dapat Melakukan Booting Kembali.
-* 7) Pasang Kembali Mesin beserta Fleksible Battrey Dan Fleksible Layar, Lalu Cas Poco M3 Seperti Biasa Dan Diamkan Selama Beberapa Detik Sambil Dicas Tanpa Menyentuh Tombol Power Ataupun Tombol Volume
+* 7) Pasang Kembali Mesin beserta Fleksible Battrey Dan Fleksible Layar, Lalu Cas Poco M3 Seperti Biasa Dan tekan tombol power
 * 8) Jika Sudah Ada Berhasil Booting, Pasang Kable Antena, Fleksible Fingerprint, Tutup Mesin, Dan Backdor Tanpa Mematikan Poco M3.
 ####
 
