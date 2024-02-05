@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>POCOM3_DEADBOOT Tutorial</title>
+<h1>POCOM3_DEADBOOT Tutorial</h1>
 </head>
 <body>
 <h1>POCOM3_DEADBOOT</h1>
